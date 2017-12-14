@@ -17,11 +17,11 @@ Hello, I am currently an undergraduate student in the College of Business at the
 - **Languages** : Korean (Native) , English (Fluent), Chinese (Intermediate)
 
 
-![Image](KakaoTalk_20171213_210453952.jpg)
-![Image](KakaoTalk_20171213_210525212.jpg)
+![Image](https://github.com/yunjool2/yunjool2.github.io/blob/master/KakaoTalk_20171213_210453952.jpg)
+![Image](https://github.com/yunjool2/yunjool2.github.io/blob/master/KakaoTalk_20171213_210525212.jpg)
 
-### Facebook
-[Yunjoo's Facebook](https://www.facebook.com/yunjoo.lee.9843)
+### 
+[![https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjWo-qgy4jYAhUSmoMKHVozCqkQjRwIBw&url=http%3A%2F%2Fsimpleicon.com%2Fdev%2Ffacebook-3.html&psig=AOvVaw1prC68d_788ED9BmgTCxJ3&ust=1513309474358355]](https://www.facebook.com/yunjoo.lee.9843)
 
 
 ### Contact
