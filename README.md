@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yunjoo Lee
 
 You can use the [editor on GitHub](https://github.com/yunjool2/yunjool2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
