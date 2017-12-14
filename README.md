@@ -1,6 +1,6 @@
 ## Yunjoo Lee
 
-Hello, I am currently an undergraduate student in the College of Business at the **University of Illinois at Urbana-Champaign**. I came to the United States when I was a freshman in High School.
+Hello, I am currently an undergraduate student in the College of Business at the **University of Illinois at Urbana-Champaign**. I was born in South Korea and came to the United States in 2013. I used to live in Ohio before I moved to Champaign, Illinois. I love to experience diverse cultures and meet different people around the world. 
 
 ### About Myself
 
@@ -16,7 +16,7 @@ Hello, I am currently an undergraduate student in the College of Business at the
 - **Computer** :  Mocrosoft Office (Word, Power Point, Excel)
 - **Languages** : Korean (Native) , English (Fluent), Chinese (Intermediate)
 
-![Image](https://github.com/yunjool2/yunjool2.github.io/blob/master/KakaoTalk_20171213_210525212.jpg)
+![Image](https://raw.githubusercontent.com/yunjool2/yunjool2.github.io/master/KakaoTalk_20171213_210525212.jpg)
 
 ### [Yunjoo's Facebook](https://www.facebook.com/yunjoo.lee.9843)
 
