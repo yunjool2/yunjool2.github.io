@@ -1,33 +1,35 @@
 ## Yunjoo Lee
 
-Hello, I am Yunjoo Lee. I am currently an undergraduate student in the College of Business at the University of Illinois at Urbana-Champaign. 
+Hello, I am Yunjoo Lee, currently an undergraduate student in the College of Business at the University of Illinois at Urbana-Champaign. 
 
 
 ### About Myself
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hobbies
+- Love to travel around the world
+- Watching movies
+- Watching game videos on YouTube
+- Spending time with my loved ones
+- Eating
 
-- Bulleted
-- List
+## Skills
+- Programming Languages : Java, Python
+- Computer :  Mocrosoft Office (Word, Power Point, Excel)
+- Languages : Korean (Native) , English (Fluent), Chinese (Intermediate)
 
-1. Numbered
-2. List
+### 
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]()
+![Image](KakaoTalk_20171213_210525212.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Facebook
-
+[Facebook](https://www.facebook.com/yunjoo.lee.9843)
 
 
 ### Contact
