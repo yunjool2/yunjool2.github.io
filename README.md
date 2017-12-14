@@ -6,10 +6,10 @@ Hello, I am currently an undergraduate student in the College of Business at the
 
 # Hobbies
 - Love to **travel** around the world
-- Watching movies
-- Watching game videos on YouTube
-- Spending time with my loved ones
-- Searching for good restaurants
+- Watch movies
+- Watch game videos on YouTube
+- Spend time with my loved ones
+- Search for good restaurants
 
 # Skills
 - **Programming Languages** : Java, Python
@@ -20,7 +20,7 @@ Hello, I am currently an undergraduate student in the College of Business at the
 ![Image]()
 
 ### Facebook
-[Yunjoo Lee](https://www.facebook.com/yunjoo.lee.9843)
+[Yunjoo's Facebook](https://www.facebook.com/yunjoo.lee.9843)
 
 
 ### Contact
