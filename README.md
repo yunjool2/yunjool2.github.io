@@ -17,7 +17,8 @@ Hello, I am currently an undergraduate student in the College of Business at the
 - **Languages** : Korean (Native) , English (Fluent), Chinese (Intermediate)
 
 
-![Image]()
+![Image](KakaoTalk_20171213_210453952.jpg)
+![Image](KakaoTalk_20171213_210525212.jpg)
 
 ### Facebook
 [Yunjoo's Facebook](https://www.facebook.com/yunjoo.lee.9843)
