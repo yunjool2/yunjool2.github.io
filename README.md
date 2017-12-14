@@ -1,7 +1,6 @@
 ## Yunjoo Lee
 
-Hello, I am Yunjoo Lee, currently an undergraduate student in the College of Business at the **University of Illinois at Urbana-Champaign**. 
-
+Hello, I am currently an undergraduate student in the College of Business at the **University of Illinois at Urbana-Champaign**. I came to the United States when I was a freshman in High School.
 
 ### About Myself
 
@@ -12,14 +11,13 @@ Hello, I am Yunjoo Lee, currently an undergraduate student in the College of Bus
 - Spending time with my loved ones
 - Searching for good restaurants
 
-## Skills
+# Skills
 - **Programming Languages** : Java, Python
 - **Computer** :  Mocrosoft Office (Word, Power Point, Excel)
 - **Languages** : Korean (Native) , English (Fluent), Chinese (Intermediate)
 
-### 
 
-![Image](KakaoTalk_20171213_210525212.jpg)
+![Image]()
 
 ### Facebook
 [Yunjoo Lee](https://www.facebook.com/yunjoo.lee.9843)
@@ -27,5 +25,5 @@ Hello, I am Yunjoo Lee, currently an undergraduate student in the College of Bus
 
 ### Contact
 
-Email : yunjool2@illinois.edu
-Phone : (312) 420-0000
+- Email : yunjool2@illinois.edu
+- Phone : (312) 420-0000
