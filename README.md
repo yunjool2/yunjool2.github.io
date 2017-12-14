@@ -19,11 +19,7 @@ Hello, I am currently an undergraduate student in the College of Business at the
 <img src = "https://raw.githubusercontent.com/yunjool2/yunjool2.github.io/master/KakaoTalk_20171213_210525212.jpg" width="300">
 <img src = "https://raw.githubusercontent.com/yunjool2/yunjool2.github.io/master/KakaoTalk_20171213_210453952.jpg" width="300">
 
-### 
-(https://www.facebook.com/yunjoo.lee.9843)
-
-
 ### Contact
-
+- [Facebook](https://www.facebook.com/yunjoo.lee.9843)
 - Email : yunjool2@illinois.edu
 - Phone : (312) 420-0000
